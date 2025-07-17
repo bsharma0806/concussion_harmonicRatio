@@ -76,7 +76,7 @@ from harmonic_ratio.filters import bandpass_filter
 
 ![3D RMS Motion](media/rms_3d_motion.gif)
 
-![Harmonics per axis, by group](media/harmoncs_1.png)
+![Harmonics per axis, by group](media/harmonics_1.png)
 
 ![Average harmonic per axis, by group](media/harmonics_2.png)
 
