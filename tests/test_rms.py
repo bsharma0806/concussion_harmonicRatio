@@ -1,5 +1,5 @@
 import os
-from harmonic_ratio.rms import process_rms_file
+from harmonic_ratio.rms import process_rms_folder
 
 def test_rms_output_structure():
     path = "synthetic_data/control01.csv"  # replace with any existing test file
