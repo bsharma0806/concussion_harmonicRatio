@@ -31,7 +31,6 @@ gitdb==4.0.12
 GitPython==3.1.44
 gpxpy==1.6.2
 graphviz==0.21
--e git+https://github.com/bsharma0806/concussion_harmonicRatio.git@5a934d4d6e05f5bd457bf1690a6c0b19272923a4#egg=harmonic_ratio
 idna==3.10
 imbalanced-learn==0.13.0
 imblearn==0.0
