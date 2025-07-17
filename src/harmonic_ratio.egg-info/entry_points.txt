@@ -1,6 +1,0 @@
-[console_scripts]
-hr-harmonics = harmonic_ratio.harmonics:plot_harmonic_waveforms
-hr-plot-avg-hratio = harmonic_ratio.harmonics:plot_average_harmonic_ratio_per_axis
-hr-plot-hratio = harmonic_ratio.harmonics:plot_harmonic_ratios
-hr-plot-reconstruct = harmonic_ratio.harmonics:plot_reconstructed_harmonics
-hr-rms = harmonic_ratio.rms:plot_rms_3d_motion
